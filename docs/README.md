@@ -1,6 +1,6 @@
 # Thomas Gaquiere
 
-![Photo Thomas](docs/images/IMG_2390.jpeg)
+![Photo Thomas](docs/images/IMG_2390.png)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
@@ -13,7 +13,7 @@ Copiez et adaptez à vos besoins le fichier Packages.R
 
 Modifiez le fichier `README.md` :
 
-- Remplacez le titre principal par votre nom ;
+- Remplacez le titre principal par votre nom ; 
 - Remplacez le logo d'EcoFoG par votre photo ;
 
 Mettez à jour le dépôt :
