@@ -1,6 +1,6 @@
 # Thomas Gaquiere
 
-![Photo Thomas](docs/images/IMG_2390.jpeg)
+![Photo Thomas](images/IMG_2390.jpeg)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
